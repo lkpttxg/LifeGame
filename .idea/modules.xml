@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch01-static-proxy/ch01-static-proxy.iml" filepath="$PROJECT_DIR$/ch01-static-proxy/ch01-static-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02-dynamic-proxy/ch02-dynamic-proxy.iml" filepath="$PROJECT_DIR$/ch02-dynamic-proxy/ch02-dynamic-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03-case/ch03-case.iml" filepath="$PROJECT_DIR$/ch03-case/ch03-case.iml" />
+    </modules>
+  </component>
+</project>
